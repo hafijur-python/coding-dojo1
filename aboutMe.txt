@@ -1,7 +1,4 @@
 name:Hafijur
 profession: Software engeneer
 age : 29
-Computer science education cannot make anybody an expert programmer any more than 
-studying brushes and pigment can make somebody an expert painter.”
-- Eric S. Raymond
-
+Hello world, i am a programer in software. how long it will take i don,t know yet but it is going smoothly thanks ....pppp.
